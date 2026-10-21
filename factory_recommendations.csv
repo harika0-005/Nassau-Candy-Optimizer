@@ -1,0 +1,61 @@
+Product,Region,Current Factory,Nearest Candidate Factory,Current Distance (km),Nearest Distance (km),Potential Distance Difference (km),Potential Distance Difference (%),Factory Change Suggested
+Wonka Bar - Triple Dazzle Caramel,Pacific,Wicked Choccy's,Lot's O' Nuts,3622.52,944.5,2678.02,73.92699005112463,True
+Wonka Bar - Milk Chocolate,Pacific,Wicked Choccy's,Lot's O' Nuts,3622.52,944.5,2678.02,73.92699005112463,True
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Lot's O' Nuts,Wicked Choccy's,3355.59,946.14,2409.4500000000003,71.80406426291651,True
+Wonka Bar - Fudge Mallows,Atlantic,Lot's O' Nuts,Wicked Choccy's,3355.59,946.14,2409.4500000000003,71.80406426291651,True
+Wonka Bar -Scrumdiddlyumptious,Atlantic,Lot's O' Nuts,Wicked Choccy's,3355.59,946.14,2409.4500000000003,71.80406426291651,True
+Hair Toffee,Pacific,The Other Factory,Lot's O' Nuts,2736.33,944.5,1791.83,65.4829644085326,True
+Kazookles,Pacific,The Other Factory,Lot's O' Nuts,2736.33,944.5,1791.83,65.4829644085326,True
+Lickable Wallpaper,Pacific,Secret Factory,Lot's O' Nuts,2593.25,944.5,1648.75,63.578521160705684,True
+Everlasting Gobstopper,Pacific,Secret Factory,Lot's O' Nuts,2593.25,944.5,1648.75,63.578521160705684,True
+Wonka Gum,Pacific,Secret Factory,Lot's O' Nuts,2593.25,944.5,1648.75,63.578521160705684,True
+Wonka Bar -Scrumdiddlyumptious,Gulf,Lot's O' Nuts,The Other Factory,2086.0,569.05,1516.95,72.72051773729626,True
+Wonka Bar - Fudge Mallows,Gulf,Lot's O' Nuts,The Other Factory,2086.0,569.05,1516.95,72.72051773729626,True
+Wonka Bar - Nutty Crunch Surprise,Gulf,Lot's O' Nuts,The Other Factory,2086.0,569.05,1516.95,72.72051773729626,True
+Fun Dip,Gulf,Sugar Shack,The Other Factory,2082.51,569.05,1513.4600000000003,72.67480108138737,True
+Fizzy Lifting Drinks,Gulf,Sugar Shack,The Other Factory,2082.51,569.05,1513.4600000000003,72.67480108138737,True
+Nerds,Gulf,Sugar Shack,The Other Factory,2082.51,569.05,1513.4600000000003,72.67480108138737,True
+Laffy Taffy,Gulf,Sugar Shack,The Other Factory,2082.51,569.05,1513.4600000000003,72.67480108138737,True
+SweeTARTS,Gulf,Sugar Shack,The Other Factory,2082.51,569.05,1513.4600000000003,72.67480108138737,True
+Nerds,Pacific,Sugar Shack,Lot's O' Nuts,2293.89,944.5,1349.3899999999999,58.825401392394575,True
+Fun Dip,Pacific,Sugar Shack,Lot's O' Nuts,2293.89,944.5,1349.3899999999999,58.825401392394575,True
+SweeTARTS,Pacific,Sugar Shack,Lot's O' Nuts,2293.89,944.5,1349.3899999999999,58.825401392394575,True
+Fizzy Lifting Drinks,Pacific,Sugar Shack,Lot's O' Nuts,2293.89,944.5,1349.3899999999999,58.825401392394575,True
+Laffy Taffy,Pacific,Sugar Shack,Lot's O' Nuts,2293.89,944.5,1349.3899999999999,58.825401392394575,True
+Laffy Taffy,Atlantic,Sugar Shack,Wicked Choccy's,1975.47,946.14,1029.33,52.10557487585233,True
+Fizzy Lifting Drinks,Atlantic,Sugar Shack,Wicked Choccy's,1975.47,946.14,1029.33,52.10557487585233,True
+SweeTARTS,Atlantic,Sugar Shack,Wicked Choccy's,1975.47,946.14,1029.33,52.10557487585233,True
+Nerds,Atlantic,Sugar Shack,Wicked Choccy's,1975.47,946.14,1029.33,52.10557487585233,True
+Fun Dip,Atlantic,Sugar Shack,Wicked Choccy's,1975.47,946.14,1029.33,52.10557487585233,True
+Wonka Bar - Triple Dazzle Caramel,Interior,Wicked Choccy's,Secret Factory,1789.97,765.61,1024.3600000000001,57.22777476717488,True
+Wonka Bar - Milk Chocolate,Interior,Wicked Choccy's,Secret Factory,1789.97,765.61,1024.3600000000001,57.22777476717488,True
+Everlasting Gobstopper,Gulf,Secret Factory,The Other Factory,1273.79,569.05,704.74,55.32623116840296,True
+Lickable Wallpaper,Gulf,Secret Factory,The Other Factory,1273.79,569.05,704.74,55.32623116840296,True
+Wonka Gum,Gulf,Secret Factory,The Other Factory,1273.79,569.05,704.74,55.32623116840296,True
+Wonka Bar - Fudge Mallows,Interior,Lot's O' Nuts,Secret Factory,1333.76,765.61,568.15,42.59761876199616,True
+Wonka Bar -Scrumdiddlyumptious,Interior,Lot's O' Nuts,Secret Factory,1333.76,765.61,568.15,42.59761876199616,True
+Wonka Bar - Nutty Crunch Surprise,Interior,Lot's O' Nuts,Secret Factory,1333.76,765.61,568.15,42.59761876199616,True
+Hair Toffee,Atlantic,The Other Factory,Wicked Choccy's,1394.89,946.14,448.7500000000001,32.1709955623741,True
+Kazookles,Atlantic,The Other Factory,Wicked Choccy's,1394.89,946.14,448.7500000000001,32.1709955623741,True
+Lickable Wallpaper,Atlantic,Secret Factory,Wicked Choccy's,1347.26,946.14,401.12,29.77302079776732,True
+Wonka Gum,Atlantic,Secret Factory,Wicked Choccy's,1347.26,946.14,401.12,29.77302079776732,True
+Everlasting Gobstopper,Atlantic,Secret Factory,Wicked Choccy's,1347.26,946.14,401.12,29.77302079776732,True
+Wonka Bar - Milk Chocolate,Gulf,Wicked Choccy's,The Other Factory,879.56,569.05,310.51,35.30287871208331,True
+Wonka Bar - Triple Dazzle Caramel,Gulf,Wicked Choccy's,The Other Factory,879.56,569.05,310.51,35.30287871208331,True
+Laffy Taffy,Interior,Sugar Shack,Secret Factory,1038.93,765.61,273.32000000000005,26.307835946598907,True
+Fizzy Lifting Drinks,Interior,Sugar Shack,Secret Factory,1038.93,765.61,273.32000000000005,26.307835946598907,True
+SweeTARTS,Interior,Sugar Shack,Secret Factory,1038.93,765.61,273.32000000000005,26.307835946598907,True
+Nerds,Interior,Sugar Shack,Secret Factory,1038.93,765.61,273.32000000000005,26.307835946598907,True
+Fun Dip,Interior,Sugar Shack,Secret Factory,1038.93,765.61,273.32000000000005,26.307835946598907,True
+Hair Toffee,Interior,The Other Factory,Secret Factory,909.46,765.61,143.85000000000002,15.817078266223916,True
+Kazookles,Interior,The Other Factory,Secret Factory,909.46,765.61,143.85000000000002,15.817078266223916,True
+Wonka Bar - Nutty Crunch Surprise,Pacific,Lot's O' Nuts,Lot's O' Nuts,944.5,944.5,0.0,0.0,False
+Wonka Bar -Scrumdiddlyumptious,Pacific,Lot's O' Nuts,Lot's O' Nuts,944.5,944.5,0.0,0.0,False
+Wonka Bar - Milk Chocolate,Atlantic,Wicked Choccy's,Wicked Choccy's,946.14,946.14,0.0,0.0,False
+Wonka Bar - Triple Dazzle Caramel,Atlantic,Wicked Choccy's,Wicked Choccy's,946.14,946.14,0.0,0.0,False
+Wonka Bar - Fudge Mallows,Pacific,Lot's O' Nuts,Lot's O' Nuts,944.5,944.5,0.0,0.0,False
+Everlasting Gobstopper,Interior,Secret Factory,Secret Factory,765.61,765.61,0.0,0.0,False
+Hair Toffee,Gulf,The Other Factory,The Other Factory,569.05,569.05,0.0,0.0,False
+Lickable Wallpaper,Interior,Secret Factory,Secret Factory,765.61,765.61,0.0,0.0,False
+Wonka Gum,Interior,Secret Factory,Secret Factory,765.61,765.61,0.0,0.0,False
+Kazookles,Gulf,The Other Factory,The Other Factory,569.05,569.05,0.0,0.0,False
